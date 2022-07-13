@@ -1,0 +1,14 @@
+com\example\demo\DemoApplication.class
+com\example\demo\entity\User.class
+com\example\demo\controller\SchoolController.class
+com\example\demo\entity\School.class
+com\example\demo\mapper\MajorMapper.class
+com\example\demo\mapper\SchoolMapper.class
+com\example\demo\entity\Center.class
+com\example\demo\controller\MajorController.class
+com\example\demo\entity\CenterInfo.class
+com\example\demo\vo\Page.class
+com\example\demo\entity\Major.class
+com\example\demo\controller\UserController.class
+com\example\demo\mapper\UserMapper.class
+com\example\demo\request\Result.class
